@@ -1,0 +1,621 @@
+﻿CustomerId,Name,Age,Gender,State,Brand,TotalPurchase,Churn
+101,Liam Taylor,29,Male,California,Nike,190.75,0
+102,Logan Robinson,34,Female,New York,Adidas,480.3,0
+103,Amy Wilson,32,Female,Florida,Samsung,700.8,0
+104,Joseph Davis,28,Male,California,Nike,180.25,0
+105,Sophia Wilson,41,Female,Florida,Samsung,820.75,0
+106,Liam Wilson,26,Male,Texas,Apple,1000.5,0
+107,Noah Martin,37,Female,New York,Adidas,850.3,1
+108,Noah Martin,37,Female,New York,Adidas,710.25,1
+109,Ava Adams,36,Female,Florida,Samsung,860.75,0
+110,Lucas Wilson,36,Female,Florida,Samsung,830,1
+111,Emma Harris,28,Male,California,Nike,200.5,0
+112,Mason Harris,34,Female,Florida,Samsung,870.3,1
+113,Ava Turner,23,Male,Texas,Apple,950,0
+114,Emma Harris,25,Male,Texas,Apple,1000.5,0
+115,Noah Adams,,Female,Florida,Samsung,870.3,0
+116,Mia Taylor,27,Male,California,Nike,190.75,0
+117,Aria Clark,32,Female,New York,Adidas,380.3,0
+118,Mia Turner,33,Female,Florida,Samsung,850.3,1
+119,Liam Davis,25,Male,Texas,Apple,1050,0
+120,Liam Taylor,29,Male,California,Nike,190.75,0
+121,Ella Harris,29,Male,California,Nike,180.25,0
+122,Emma Robinson,29,Male,California,Nike,180.25,1
+123,Mia Taylor,27,Male,California,Nike,190.75,1
+124,Robert White,28,Male,California,Nike,180.5,1
+125,Benjamin White,24,Male,Texas,Apple,1050,1
+126,Sophia Turner,22,Male,Texas,Apple,950,0
+127,Liam Davis,24,Male,Texas,Apple,1050,0
+128,Mason Clark,37,Female,New York,Adidas,490.8,1
+129,Mason Harris,39,Female,New York,Adidas,600.3,0
+130,Liam Davis,36,Female,Florida,Samsung,860.75,1
+131,Owen Adams,34,Male,California,Nike,200.5,1
+132,Mason Adams,37,Female,New York,Adidas,530.8,0
+133,Mason Harris,39,Female,New York,Adidas,810.3,0
+134,Mason Adams,25,Male,Texas,Apple,1000.5,0
+135,Mason Harris,34,Female,Florida,Samsung,870.3,0
+136,Mason Martin,28,Male,California,Nike,180.25,1
+137,Sophia White,33,Female,Florida,Samsung,850.3,1
+138,Sofia Anderson,23,Male,Texas,Apple,950,1
+139,James Taylor,41,Female,New York,Adidas,330.8,0
+140,Noah Wilson,22,Male,Texas,Apple,1000.5,1
+141,Liam Taylor,29,Male,California,Nike,190.75,0
+142,Ethan Johnson,28,Male,Texas,Apple,950,0
+143,Ava Harris,30,Male,California,Nike,210.25,0
+144,Henry Davis,26,Male,Texas,Apple,1100,0
+145,Ava Clark,24,Male,Texas,Apple,1050,1
+146,Mia Davis,26,Male,Texas,Apple,1100,0
+147,Ava Adams,36,Female,Florida,Samsung,860.75,0
+148,Liam Davis,37,Female,New York,Adidas,610.3,1
+149,Sophia Clark,40,Female,New York,Adidas,620.25,1
+150,Liam Harris,35,Female,Florida,Samsung,830,0
+151,Andrew Moore,27,Male,California,Nike,200.75,0
+152,Liam Davis,24,Male,Texas,Apple,1050,0
+153,Mason Martin,28,Male,California,Nike,180.25,1
+154,Liam Davis,36,Female,New York,Adidas,540.3,1
+155,Ava Harris,30,Male,California,Nike,210.25,0
+156,Mia Martin,30,Male,California,Nike,210.25,0
+157,Lucas Wilson,35,Female,Florida,Samsung,840.5,1
+158,Noah Adams,34,Female,Florida,Samsung,870.3,0
+159,Michael Johnson,22,Male,Texas,Apple,1200,0
+160,Liam Clark,33,Female,Florida,Samsung,820.75,1
+161,Ava Taylor,23,Male,Texas,Apple,950,1
+162,James Miller,28,Male,California,Nike,200.5,0
+163,Emma Wilson,25,Male,Texas,Apple,1000.5,1
+164,Mia Taylor,27,Male,California,Nike,190.75,1
+165,Mason Martin,28,Male,California,Nike,180.25,1
+166,Mia Taylor,27,Male,California,Nike,190.75,0
+167,Mason Martin,28,Male,California,Nike,180.25,0
+168,Lucas Wilson,35,Female,Florida,Samsung,840.5,0
+169,Dylan Smith,40,Female,New York,Adidas,420.3,0
+170,Ava Adams,36,Female,Florida,Samsung,860.75,0
+171,Noah Turner,23,Male,Texas,Apple,950,1
+172,Mia Turner,39,Female,New York,Adidas,930.3,0
+173,Ella Moore,26,Male,Texas,Apple,900.5,1
+174,Nathan Wilson,25,Male,Texas,Apple,1200.5,0
+175,Liam Davis,24,Male,Texas,Apple,1050,1
+176,Sophia Turner,30,Male,California,Nike,210.25,1
+177,James Martin,25,Male,Texas,Apple,1300,0
+178,Chloe Harris,32,Female,New York,Adidas,430.25,0
+179,Olivia Taylor,39,Female,New York,Adidas,240.25,0
+180,Nathan Wilson,25,Male,Texas,Apple,1200.5,1
+181,Lily Martinez,31,Female,Florida,Samsung,850.5,0
+182,Ava Adams,36,Female,Florida,Samsung,860.75,0
+183,Emma Turner,33,Female,Florida,Samsung,750,0
+184,Logan Robinson,34,Female,Florida,Samsung,810,0
+185,Logan Lee,29,Male,California,Nike,170.75,0
+186,Harper Taylor,38,Female,Florida,Samsung,790.5,0
+187,Ava Martin,37,Female,New York,Adidas,500.25,0
+188,Emma Wilson,25,Male,Texas,Apple,1000.5,1
+189,Mason Adams,25,Male,Texas,Apple,1000.5,1
+190,Ava Clark,24,Male,Texas,Apple,,0
+191,Mia Turner,33,Female,Florida,Samsung,850.3,0
+192,Mia Davis,26,Male,Texas,Apple,1100,1
+193,Mia Turner,33,Female,Florida,Samsung,850.3,1
+194,Mia Turner,40,Female,New York,Adidas,510.3,0
+195,Mason Adams,25,Male,Texas,Apple,1000.5,0
+196,Owen Harris,27,Male,California,Nike,190.25,0
+197,Abigail Turner,30,Male,California,Nike,210.25,0
+198,Ava Harris,30,Male,California,Nike,210.25,1
+199,Mark Harris,29,Male,California,Nike,140.25,0
+200,Aria Moore,28,Male,California,Nike,190.75,0
+201,Olivia Turner,33,Female,Florida,Samsung,780.3,1
+202,Emma Harris,41,Female,New York,Adidas,630.3,0
+203,Lucas Adams,37,Female,New York,Adidas,360.8,1
+204,Mia Turner,39,Female,New York,Adidas,720.3,1
+205,Emma Harris,36,Female,Florida,Samsung,860.75,1
+206,Mason Harris,34,Female,Florida,Samsung,870.3,0
+207,Scarlett Miller,31,Female,Florida,Samsung,,0
+208,Ava Turner,27,Male,Texas,Apple,1100.5,1
+209,Ella Adams,36,Female,New York,Adidas,450.3,1
+210,Sophia Wilson,22,Male,Texas,Apple,1000,0
+211,David Brown,26,Male,Texas,Apple,1000,0
+212,Logan Lee,,Male,California,Nike,,0
+213,Liam Taylor,29,Male,California,Nike,190.75,0
+214,Olivia Moore,34,Female,Florida,Samsung,870.3,0
+215,Liam Davis,37,Female,New York,Adidas,750.3,0
+216,Emma Harris,41,Female,New York,Adidas,770.3,0
+217,Emma Harris,28,Male,California,Nike,200.5,0
+218,Aiden Taylor,24,Male,Texas,Apple,1050,0
+219,Noah Turner,23,Male,Texas,Apple,950,0
+220,Emily Davis,35,Female,Florida,Samsung,800.75,1
+221,Sophia Turner,,Male,California,Nike,210.25,0
+222,Mia Davis,26,Male,Texas,Apple,1100,0
+223,Noah Adams,40,Female,New York,Adidas,410.25,1
+224,Mia Turner,39,Female,New York,Adidas,650.3,0
+225,Emma Harris,41,Female,New York,Adidas,910.3,0
+226,Mia Taylor,30,Male,California,Nike,210.25,1
+227,Sophia Wilson,41,Female,Florida,Samsung,840.75,0
+228,Aria Moore,28,Male,California,Nike,170.75,0
+229,Isabella Turner,33,Female,New York,Adidas,280.8,0
+230,Mason Harris,34,Female,Florida,Samsung,870.3,0
+231,Addison Moore,34,Female,Florida,Samsung,870.3,1
+232,Noah Adams,34,Female,Florida,Samsung,870.3,0
+233,Mason Harris,39,Female,New York,Adidas,950.3,0
+234,Mia Davis,26,Male,Texas,Apple,1100,0
+235,Sophia Clark,40,Female,New York,Adidas,550.25,0
+236,Sophia Turner,22,Male,Texas,Apple,950,0
+237,Scarlett Miller,31,Female,Florida,Samsung,,0
+238,Grace Robinson,35,Female,Florida,Samsung,790.5,0
+239,Sophia White,33,Female,Florida,Samsung,850.3,0
+240,Chris Lee,23,Male,Texas,Apple,900.5,0
+241,Sofia Anderson,23,Male,Texas,Apple,950,1
+242,Noah Turner,23,Male,Texas,Apple,950,1
+243,Sarah Adams,40,Female,New York,Adidas,250.25,0
+244,Isabella Turner,33,Female,New York,Adidas,440.25,1
+245,Mason Taylor,33,Female,Florida,Samsung,780.3,0
+246,Liam Davis,24,Male,Texas,Apple,1050,0
+247,Liam Taylor,29,Male,California,Nike,190.75,0
+248,Emma Harris,36,Female,Florida,Samsung,860.75,1
+249,Ava Turner,40,Female,New York,Adidas,800.25,1
+250,Mia Turner,33,Female,Florida,Samsung,850.3,0
+251,Sophia Turner,30,Male,California,Nike,210.25,0
+252,Olivia Anderson,28,Male,California,Nike,200.75,0
+253,Ava Clark,24,Male,Texas,Apple,1050,0
+254,Ava Turner,40,Female,New York,Adidas,940.25,0
+255,Andrew Moore,27,Male,California,Nike,200.75,0
+256,Mason Adams,25,Male,Texas,Apple,1000.5,0
+257,Emma Harris,29,Male,California,Nike,180.25,0
+258,Noah Martin,28,Male,California,Nike,200.5,0
+259,Mason Adams,25,Male,Texas,Apple,1000.5,0
+260,Sophia Turner,26,Male,Texas,Apple,900.5,0
+261,Leah Turner,24,Male,Texas,Apple,1200,1
+262,Ava Turner,40,Female,New York,Adidas,590.25,0
+263,Mia Turner,33,Female,Florida,Samsung,850.3,1
+264,Elijah Davis,37,Female,New York,Adidas,310.25,1
+265,Avery Turner,39,Female,New York,Adidas,460.8,0
+266,Liam Davis,37,Female,New York,Adidas,890.3,1
+267,Noah Martin,29,Male,California,Nike,190.75,1
+268,Daniel Smith,22,Male,Texas,Apple,1100.5,0
+269,Sophia Turner,22,Male,Texas,Apple,,0
+270,Emma Harris,,Female,Florida,Samsung,860.75,0
+271,Ava Clark,24,Male,Texas,Apple,1050,1
+272,Mason Harris,34,Female,Florida,Samsung,870.3,1
+273,Emma Harris,28,Male,California,Nike,200.5,0
+274,Mason Martin,28,Male,California,Nike,180.25,1
+275,Noah Martin,37,Female,New York,Adidas,640.25,1
+276,Ava Harris,30,Male,California,Nike,210.25,0
+277,Grace Robinson,35,Female,Florida,Samsung,810,1
+278,Emma Harris,25,Male,California,Nike,190.5,1
+279,Jane Smith,30,Female,New York,Adidas,200.5,0
+280,Emma Harris,36,Female,Florida,Samsung,860.75,0
+281,Mia Davis,26,Male,Texas,Apple,1100,0
+282,Mason Adams,25,Male,Texas,Apple,1000.5,0
+283,Sophia White,33,Female,Florida,Samsung,850.3,0
+284,Emma Wilson,25,Male,Texas,Apple,1000.5,0
+285,Sophia White,33,Female,Florida,Samsung,850.3,0
+286,Benjamin White,24,Male,Texas,Apple,1050,0
+287,Sophia Turner,22,Male,Texas,Apple,950,0
+288,Chloe Adams,41,Female,Florida,Samsung,860.75,0
+289,Sophia Turner,22,Male,Texas,Apple,950,0
+290,Liam Davis,36,Female,Florida,Samsung,860.75,1
+291,Noah Martin,29,Male,California,Nike,190.75,0
+292,Daniel Smith,22,Male,Texas,Apple,1100.5,1
+293,Ava Adams,36,Female,Florida,Samsung,860.75,0
+294,Ava Turner,41,Female,New York,Adidas,520.25,0
+295,Addison Brown,34,Female,Florida,Samsung,820.75,0
+296,Megan Taylor,38,Female,New York,Adidas,220,0
+297,Abigail Martin,30,Male,California,Nike,200.5,1
+298,Sophia Turner,30,Male,California,Nike,210.25,0
+299,Sophia Turner,22,Male,Texas,Apple,950,1
+300,Chloe Harris,32,Female,New York,Adidas,270.25,1
+301,Mason Harris,39,Female,New York,Adidas,880.3,1
+302,Sophia Turner,22,Male,Texas,Apple,950,1
+303,Liam Davis,36,Female,Florida,Samsung,860.75,1
+304,Noah White,32,Female,Florida,Samsung,800.75,1
+305,Mia Turner,33,Female,Florida,Samsung,850.3,1
+306,Liam Davis,36,Female,Florida,Samsung,860.75,0
+307,Noah Turner,23,Male,Texas,Apple,950,0
+308,Mason Harris,34,Female,Florida,Samsung,870.3,1
+309,Ella Adams,36,Female,New York,Adidas,290.25,0
+310,Emma Harris,41,Female,New York,Adidas,560.3,1
+311,Mason Harris,39,Female,New York,Adidas,,0
+312,Ava Harris,29,Male,California,Nike,190.75,0
+313,Christopher Robinson,36,Female,Florida,Samsung,860.3,0
+314,Noah Adams,34,Female,Florida,Samsung,870.3,0
+315,Mia Turner,39,Female,New York,Adidas,790.3,0
+316,Noah Turner,23,Male,Texas,Apple,950,0
+317,Emma Brown,40,Female,New York,Adidas,370.25,0
+318,Mia Turner,39,Female,New York,Adidas,860.3,0
+319,Henry Turner,26,Male,Texas,Apple,1000,0
+320,Liam Davis,36,Female,Florida,Samsung,860.75,1
+321,Elijah Harris,37,Female,New York,Adidas,470.25,0
+322,Mia Taylor,,Male,California,Nike,190.75,0
+323,Noah Martin,,Female,New York,Adidas,780.3,1
+324,Mason Adams,,Male,Texas,Apple,950,1
+325,Sophia Clark,,Female,New York,Adidas,900.25,0
+326,Emma Harris,28,Male,California,Nike,200.5,0
+327,Brian Miller,27,Male,California,Nike,160.75,1
+328,Ava Adams,36,Female,Florida,Samsung,860.75,0
+329,Noah Adams,34,Female,Florida,Samsung,870.3,0
+330,William Anderson,30,Male,California,Nike,190.5,0
+331,Ava Clark,24,Male,Texas,Apple,1050,0
+332,Sophia White,33,Female,Florida,Samsung,850.3,0
+333,Liam Davis,38,Female,New York,Adidas,340.25,1
+334,Liam Taylor,29,Male,California,Nike,190.75,0
+335,Ava Turner,40,Female,New York,Adidas,730.25,0
+336,Mason Martin,28,Male,California,Nike,180.25,0
+337,Mia Turner,39,Female,New York,Adidas,580.3,0
+338,Jason Turner,24,Male,Texas,Apple,1100,0
+339,Sophia Turner,24,Male,Texas,Apple,1050,0
+340,Sophia Turner,30,Male,California,Nike,210.25,0
+341,Emma Wilson,25,Male,Texas,Apple,1000.5,0
+342,Noah Martin,37,Female,New York,Adidas,920.3,0
+343,Olivia Robinson,36,Female,Florida,Samsung,840.5,1
+344,Sophia Clark,40,Female,New York,Adidas,830.25,1
+345,Joseph Davis,28,Male,California,Nike,160,0
+346,Liam Davis,37,Female,New York,Adidas,680.3,0
+347,Sophia White,33,Female,Florida,Samsung,850.3,0
+348,Mason Harris,37,Female,New York,Adidas,400.8,1
+349,Ava Turner,40,Female,New York,Adidas,660.25,0
+350,Aria Davis,37,Female,New York,Adidas,260,0
+351,Noah Harris,34,Female,Florida,Samsung,870.3,1
+352,Liam Davis,24,Male,Texas,Apple,1050,0
+353,Liam Davis,36,Female,Florida,Samsung,860.75,0
+354,Ava Clark,24,Male,Texas,Apple,1050,0
+355,Emma Harris,28,Male,California,Nike,200.5,0
+356,Emma Wilson,25,Male,Texas,Apple,1000.5,1
+357,Mason Harris,39,Female,New York,Adidas,670.3,1
+358,Grace Brown,34,Female,Florida,Samsung,780.3,0
+359,Avery Clark,39,Female,New York,Adidas,300.8,1
+360,Noah Martin,29,Male,California,Nike,190.75,1
+361,Sophia Turner,30,Male,California,Nike,210.25,1
+362,Noah Adams,34,Female,Florida,Samsung,870.3,0
+363,Sophia White,36,Female,Florida,Samsung,860.75,0
+364,Ava Turner,,Female,New York,Adidas,870.25,1
+365,Sophia Clark,40,Female,New York,Adidas,690.25,0
+366,Emma Harris,36,Female,Florida,Samsung,860.75,0
+367,Noah Martin,29,Male,California,Nike,190.75,0
+368,Mia Davis,26,Male,Texas,Apple,1100,1
+369,Emma Harris,34,Female,Florida,Samsung,840.3,1
+370,Sophia Miller,,Male,California,Nike,180.25,0
+371,Emma Harris,41,Female,New York,Adidas,,0
+372,Isabella Davis,,Male,California,Nike,210.25,1
+373,Noah Martin,29,Male,California,Nike,190.75,0
+374,Aria Turner,28,Male,California,Nike,180.25,0
+375,Dylan Smith,40,Female,New York,Adidas,320,0
+376,Noah Turner,23,Male,Texas,Apple,950,0
+377,Liam Davis,24,Male,Texas,Apple,1050,1
+378,Mia Taylor,30,Male,California,Nike,,1
+379,Harper Taylor,38,Female,Florida,Samsung,800.75,0
+380,Ava Clark,36,Female,New York,Adidas,230.8,0
+381,Noah Martin,37,Female,New York,Adidas,570.25,0
+382,Aiden Clark,39,Female,New York,Adidas,350.25,1
+383,Emma Harris,41,Female,New York,Adidas,840.3,0
+384,Christopher White,,Male,California,Nike,170.75,1
+385,Liam Davis,37,Female,New York,Adidas,820.3,0
+386,Ella Davis,29,Male,Texas,Apple,,0
+387,Noah Harris,36,Female,Florida,Samsung,800.75,0
+388,Ava Harris,30,Male,California,Nike,210.25,0
+389,John Doe,25,Male,California,Nike,150,1
+390,Mia Taylor,27,Male,California,Nike,190.75,0
+391,Emma Wilson,,Male,Texas,Apple,,0
+392,Noah Adams,36,Female,Florida,Samsung,860.75,0
+393,Sophia Clark,,Female,New York,Adidas,760.25,1
+394,Ethan Harris,25,Male,Texas,Apple,1100,1
+395,Lucas Turner,27,Male,California,Nike,,0
+396,Emma Adams,,Male,California,Nike,200.75,0
+397,Emma Harris,36,Female,Florida,Samsung,860.75,0
+398,Ava Davis,39,Female,New York,Adidas,390.25,0
+399,Emma Harris,28,Male,California,Nike,,0
+400,Noah Martin,29,Male,California,Nike,,1
+401,Sophia Turner,32,Female,New York,Samsung,670.3,0
+402,Lucas Adams,28,Female,New York,Samsung,580.75,0
+403,Mason Adams,31,Male,New York,Samsung,670.3,0
+404,Aria Turner,34,Male,California,Adidas,700.3,0
+405,Noah Martin,35,Male,Florida,Apple,550.75,1
+406,Mason Adams,26,Female,Texas,Nike,670.3,0
+407,Ava Turner,31,Male,Florida,Apple,580.75,1
+408,Noah Harris,29,Female,Florida,Adidas,720.75,0
+409,Sophia Martin,28,Male,New York,Adidas,650.3,1
+410,Lucas Wilson,30,Female,New York,Nike,,1
+411,Mia Turner,29,Male,New York,Apple,690.75,1
+412,Ava Martin,28,Male,Texas,Nike,600.75,1
+413,Noah Turner,31,Male,Texas,Samsung,720.75,1
+414,Mia Martin,26,Female,Florida,Apple,690.3,1
+415,Liam Wilson,29,Female,New York,Samsung,740.3,0
+416,Noah Taylor,33,Female,California,Adidas,480.75,0
+417,Mia Adams,26,Female,California,Samsung,720.75,0
+418,Lucas Adams,31,Male,New York,Nike,650.3,0
+419,Emma Turner,32,Female,Florida,Samsung,690.3,0
+420,Aria Adams,27,Male,Florida,Nike,610.5,1
+421,Mason Martin,29,Male,New York,Adidas,520.75,1
+422,Noah Adams,33,Female,Florida,Samsung,600.75,0
+423,Liam Adams,27,Female,Florida,Samsung,520.75,0
+424,Mia Adams,30,Female,California,Apple,580.75,0
+425,Emma Turner,27,Male,Texas,Apple,690.75,1
+426,Aria Martin,34,Male,Texas,Apple,620.75,1
+427,Ava Harris,31,Male,New York,Nike,670.3,1
+428,Noah Adams,31,Male,New York,Nike,650.3,0
+429,Emma Turner,29,Male,Texas,Nike,410.25,0
+430,Noah Taylor,30,Male,California,Samsung,590.75,0
+431,Sophia Turner,29,Male,New York,Adidas,550.3,0
+432,Mia Martin,28,Male,Texas,Nike,650.3,0
+433,Lucas Martin,31,Male,California,Adidas,520.75,1
+434,Mia Adams,32,Female,California,Samsung,550.3,0
+435,Sophia Adams,28,Female,California,Samsung,630.5,1
+436,Sophia Martin,28,Male,Texas,Nike,720.75,0
+437,Aria Turner,26,Female,Texas,Nike,720.75,0
+438,Liam Wilson,32,Male,Florida,Nike,720.3,1
+439,Emma Harris,31,Male,California,Apple,540.75,0
+440,Liam Wilson,26,Female,Florida,Samsung,550.3,0
+441,Sophia Turner,29,Male,Texas,Nike,650.3,0
+442,Mason Adams,32,Female,Texas,Samsung,720.75,0
+443,Aria Turner,29,Female,California,Adidas,670.3,0
+444,Liam Adams,29,Male,Florida,Apple,650.3,1
+445,Ava Turner,31,Male,Florida,Apple,520.75,1
+446,Aria Martin,31,Male,Florida,Apple,680.3,1
+447,Liam Martin,26,Male,New York,Samsung,700.2,0
+448,Noah Turner,31,Male,Texas,Nike,650.3,0
+449,Mia Martin,26,Female,California,Samsung,580.75,0
+450,Mia Adams,31,Male,Texas,Adidas,580.75,1
+451,Mia Adams,25,Female,California,Nike,480.5,0
+452,Ava Martin,29,Male,California,Apple,580.75,0
+453,Mason Martin,26,Female,Texas,Nike,550.3,0
+454,Mia Turner,30,Female,Florida,Nike,490.3,0
+455,Sophia Turner,29,Male,Texas,Adidas,550.3,1
+456,Noah Adams,31,Male,New York,Nike,550.3,1
+457,Liam Martin,30,Female,Florida,Apple,650.3,0
+458,Sophia Adams,32,Male,Texas,Adidas,550.75,0
+459,Aria Turner,30,Male,Texas,Apple,670.3,1
+460,Ava Wilson,26,Female,California,Adidas,520.75,0
+461,Sophia Turner,26,Male,Florida,Nike,690.3,0
+462,Aria Turner,30,Male,New York,Nike,,0
+463,Ava Adams,33,Female,Texas,Adidas,,0
+464,Liam Adams,33,Female,Florida,Adidas,550.3,0
+465,Aria Turner,28,Male,Texas,Nike,580.75,0
+466,Sophia Adams,27,Female,New York,Samsung,550.3,0
+467,Noah Harris,26,Female,New York,Adidas,490.3,0
+468,Liam Martin,30,Male,New York,Apple,550.3,0
+469,Lucas Harris,28,Female,Texas,Samsung,580.5,1
+470,Emma Turner,33,Female,California,Samsung,580.75,0
+471,Noah Adams,34,Female,New York,Samsung,,0
+472,Noah Adams,30,Male,New York,Samsung,650.3,0
+473,Noah Adams,31,Male,New York,Adidas,580.75,1
+474,Mia Wilson,29,Male,Texas,Adidas,520.75,0
+475,Liam Martin,33,Female,Texas,Adidas,720.75,1
+476,Emma Turner,33,Female,California,Samsung,580.75,0
+477,Sophia Turner,26,Female,California,Samsung,680.3,0
+478,Mason Turner,27,Female,California,Samsung,600.75,0
+479,Mia Wilson,,Female,California,Samsung,690.3,1
+480,Noah Adams,32,Female,New York,Adidas,550.3,0
+481,Liam Adams,30,Female,Florida,Adidas,720.75,0
+482,Ava Turner,30,Male,Florida,Samsung,520.75,1
+483,Liam Davis,29,Male,Florida,Adidas,,1
+484,Noah Adams,29,Male,New York,Nike,600.75,1
+485,Liam Martin,33,Female,Florida,Apple,600.75,1
+486,Ava Harris,27,Female,Florida,Adidas,550.3,1
+487,Sophia Turner,32,Female,New York,Nike,580.75,0
+488,Noah Adams,28,Male,New York,Apple,580.75,1
+489,Aria Turner,29,Male,Texas,Nike,520.75,0
+490,Ava Turner,28,Male,Florida,Apple,650.3,0
+491,Liam Adams,29,Male,Florida,Apple,670.3,0
+492,Sophia Turner,,Male,New York,Samsung,520.75,1
+493,Aria Wilson,26,Female,California,Apple,600.75,1
+494,Mason Adams,33,Female,Texas,Nike,600.75,0
+495,Mason Adams,34,Female,Texas,Adidas,,0
+496,Aria Adams,30,Female,California,Adidas,580.75,0
+497,Mason Adams,28,Male,Texas,Apple,670.3,0
+498,Lucas Adams,28,Male,California,Nike,650.3,0
+499,Sophia Turner,29,Male,Texas,Adidas,520.75,0
+500,Lucas Martin,33,Female,California,Nike,580.75,0
+501,Noah Adams,34,Female,New York,Samsung,680.3,0
+502,Ava Turner,23,Male,Texas,Adidas,600,0
+503,Noah Wilson,29,Male,Florida,Apple,550.3,0
+504,Emma Harris,33,Female,Texas,Apple,670.3,0
+505,Emma Martin,30,Male,Florida,Nike,670.3,1
+506,Liam Taylor,31,Male,California,Apple,530.75,0
+507,Liam Martin,33,Female,California,Samsung,600.75,1
+508,Mason Harris,30,Female,California,Adidas,490.3,0
+509,Lucas Adams,31,Male,California,Nike,600.75,0
+510,Aria Turner,34,Female,New York,Samsung,790.2,0
+511,Noah Adams,29,Male,Florida,Samsung,720.75,0
+512,Noah Adams,31,Male,New York,Adidas,600.75,0
+513,Mia Martin,27,Female,California,Nike,600.75,0
+514,Ava Harris,30,Male,Florida,Apple,720.75,0
+515,Emma Harris,33,Female,Texas,Adidas,540.25,1
+516,Aria Turner,28,Female,New York,Samsung,650.3,0
+517,Sophia Turner,31,Male,New York,Nike,600.75,0
+518,Emma Harris,28,Female,Texas,Nike,570.25,0
+519,Noah Martin,27,Male,Texas,Nike,480.75,0
+520,Aria Adams,32,Female,New York,Adidas,510.3,0
+521,Ava Harris,31,Male,New York,Nike,670.3,0
+522,Mia Wilson,31,Male,California,Nike,720.75,1
+523,Lucas Martin,31,Male,California,Nike,650.3,0
+524,Sophia Martin,27,Female,Florida,Samsung,580.75,0
+525,Ava Martin,33,Male,Texas,Samsung,700.25,1
+526,Mia Wilson,31,Male,California,Samsung,520.75,0
+527,Liam Adams,26,Female,New York,Nike,600.75,1
+528,Noah Martin,37,Female,California,Adidas,780.3,0
+529,Mason Turner,27,Female,New York,Nike,670.3,1
+530,Liam Martin,33,Female,Florida,Apple,550.3,0
+531,Lucas Martin,26,Female,California,Adidas,580.75,0
+532,Emma Turner,28,Female,Florida,Samsung,640.3,0
+533,Lucas Adams,29,Male,California,Samsung,670.3,1
+534,Noah Turner,25,Female,New York,Nike,560.3,0
+535,Mason Adams,27,Female,New York,Adidas,670.3,1
+536,Emma Turner,31,Female,Florida,Samsung,620.75,0
+537,Mason Wilson,28,Male,California,Apple,460.75,1
+538,Mason Harris,27,Male,Florida,Samsung,750.3,0
+539,Emma Harris,,Male,Florida,Apple,300.5,0
+540,Lucas Martin,30,Female,Texas,Apple,550.3,0
+541,Sophia Martin,27,Female,New York,Nike,650.3,1
+542,Ava Turner,28,Male,New York,Nike,720.75,0
+543,Mia Turner,35,Female,New York,Samsung,760.3,1
+544,Aria Turner,26,Female,Texas,Adidas,550.3,0
+545,Ava Turner,28,Male,Florida,Apple,580.75,0
+546,Ava Turner,27,Female,Florida,Samsung,670.3,0
+547,Mia Adams,30,Male,Texas,Adidas,520.75,0
+548,Sophia Martin,28,Male,New York,Adidas,,1
+549,Mia Harris,26,Male,New York,Adidas,650.75,0
+550,Sophia Adams,29,Male,California,Apple,720.75,0
+551,Aria Adams,29,Male,Texas,Nike,720.75,0
+552,Noah Turner,31,Male,New York,Adidas,520.75,1
+553,Emma Taylor,36,Male,Florida,Apple,600.2,0
+554,Noah Turner,30,Male,New York,Adidas,660.75,1
+555,Aria Turner,28,Female,New York,Samsung,650.3,0
+556,Ava Turner,29,Female,California,Nike,600.75,1
+557,Liam Adams,32,Female,New York,Nike,640.3,0
+558,Lucas Adams,30,Female,Texas,Adidas,520.75,0
+559,Aria Turner,29,Male,Texas,Nike,670.3,0
+560,Lucas Wilson,26,Female,Florida,Samsung,720.5,1
+561,Liam Martin,26,Female,New York,Nike,520.75,1
+562,Emma Adams,32,Male,California,Apple,580.75,0
+563,Sophia Turner,26,Male,Florida,Nike,690.3,1
+564,Mason Adams,32,Female,Texas,Adidas,600.75,1
+565,Liam Adams,26,Female,Florida,Samsung,580.75,1
+566,Mia Adams,29,Female,California,Apple,470.25,0
+567,Mason Wilson,27,Female,Florida,Adidas,520.75,1
+568,Mason Adams,28,Female,New York,Samsung,720.3,0
+569,Ava Turner,29,Female,California,Nike,600.75,0
+570,Noah Turner,36,Female,New York,Adidas,560.3,0
+571,Aria Turner,30,Male,Texas,Adidas,550.3,0
+572,Noah Wilson,29,Male,California,Samsung,600.75,0
+573,Emma Turner,,Female,New York,Adidas,650.3,0
+574,Aria Turner,30,Male,California,Adidas,550.3,0
+575,Ava Turner,27,Female,Florida,Adidas,520.75,1
+576,Mason Adams,29,Male,Texas,Apple,540.3,0
+577,Noah Adams,29,Male,New York,Samsung,720.75,1
+578,Emma Turner,26,Female,California,Samsung,720.75,1
+579,Ava Turner,28,Male,Florida,Apple,550.3,1
+580,Noah Adams,29,Male,New York,Apple,670.3,0
+581,Liam Martin,31,Male,California,Apple,620.75,0
+582,Mason Adams,27,Female,New York,Samsung,670.3,0
+583,Noah Harris,26,Male,California,Adidas,580.75,1
+584,Mia Adams,29,Male,Texas,Samsung,600.75,1
+585,Liam Adams,29,Male,Texas,Apple,650.3,0
+586,Mason Wilson,32,Male,New York,Adidas,750.3,0
+587,Mia Adams,30,Male,Texas,Adidas,,1
+588,Logan Robinson,34,Female,New York,Samsung,530.25,0
+589,Ava Martin,33,Female,Florida,Samsung,650.3,0
+590,Noah Harris,32,Male,New York,Nike,470.75,0
+591,Ava Harris,31,Male,Texas,Adidas,520.75,0
+592,Emma Wilson,28,Male,Texas,Samsung,720.75,1
+593,Sophia Turner,29,Male,Texas,Nike,580.75,0
+594,Lucas Wilson,28,Female,California,Samsung,710.5,0
+595,Aria Turner,29,Male,Texas,Nike,650.3,0
+596,Mason Adams,30,Male,Texas,Adidas,520.75,0
+597,Mia Turner,29,Female,Florida,Samsung,660.75,0
+598,Liam Adams,31,Male,Florida,Apple,580.75,1
+599,Mason Adams,31,Male,Texas,Samsung,720.75,1
+600,Mia Wilson,31,Male,Florida,Samsung,,0
+601,Ava Turner,30,Female,New York,Adidas,620.3,0
+602,Liam Adams,26,Female,Florida,Nike,550.3,0
+603,Aria Adams,29,Male,Texas,Nike,720.75,1
+604,Emma Adams,27,Female,California,Adidas,550.3,1
+605,Sophia Turner,,Male,Texas,Nike,550.3,1
+606,Mia Martin,26,Female,California,Apple,550.3,1
+607,Ava Taylor,30,Female,Texas,Apple,570.25,0
+608,Mason Martin,27,Female,Florida,Adidas,550.3,0
+609,Lucas Martin,30,Female,California,Samsung,600.75,0
+610,Noah Adams,26,Female,California,Adidas,520.75,0
+611,Lucas Adams,30,Female,California,Apple,720.75,0
+612,Noah Wilson,29,Male,Florida,Apple,550.3,0
+613,Mason Adams,30,Male,Texas,Adidas,650.3,0
+614,Lucas Martin,34,Female,New York,Samsung,670.3,1
+615,Mia Adams,32,Female,California,Adidas,580.75,0
+616,Noah Adams,30,Female,New York,Adidas,520.75,1
+617,Liam Adams,27,Female,Texas,Apple,580.5,0
+618,Ava Adams,36,Male,California,Samsung,480.5,1
+619,Mia Martin,26,Female,Florida,Apple,690.3,1
+620,Aria Clark,33,Female,Florida,Nike,420.3,1
+621,Liam Turner,25,Male,California,Samsung,670.75,1
+622,Liam Wilson,26,Male,California,Apple,650.3,0
+623,Mia Adams,27,Female,California,Nike,670.3,0
+624,Ava Harris,32,Female,Florida,Apple,600.75,1
+625,Liam Adams,29,Male,Florida,Adidas,670.3,0
+626,Liam Adams,27,Female,Florida,Apple,720.75,0
+627,Aria Martin,28,Male,Florida,Samsung,700.5,1
+628,Lucas Adams,32,Female,New York,Apple,580.75,1
+629,Lucas Turner,29,Male,California,Samsung,680.75,0
+630,Sophia Martin,28,Male,New York,Nike,650.3,1
+631,Noah Adams,28,Male,New York,Samsung,650.3,0
+632,Noah Adams,30,Male,Florida,Adidas,550.3,0
+633,Sophia Wilson,32,Male,Florida,Adidas,650.3,0
+634,Aria Adams,29,Male,Florida,Samsung,580.75,0
+635,Sophia Adams,26,Male,California,Adidas,500.3,0
+636,Liam Adams,33,Female,Florida,Adidas,550.3,1
+637,Lucas Turner,30,Female,Florida,Adidas,,0
+638,Mia Wilson,28,Male,California,Samsung,650.3,1
+639,Sophia Wilson,41,Male,Texas,Apple,840.25,0
+640,Aria Turner,26,Female,Texas,Nike,600.75,0
+641,Ava Turner,31,Male,Florida,Apple,600.75,1
+642,Lucas Adams,28,Male,California,Samsung,670.3,0
+643,Mason Adams,34,Female,New York,Samsung,670.3,1
+644,Liam Adams,32,Female,New York,Nike,670.3,1
+645,Sophia Wilson,25,Female,Texas,Samsung,620.2,0
+646,Sophia Turner,29,Male,Texas,Adidas,520.75,1
+647,Lucas Martin,31,Male,California,Adidas,550.3,1
+648,Aria Turner,29,Female,Texas,Nike,720.75,0
+649,Lucas Adams,30,Female,California,Samsung,720.75,1
+650,Lucas Wilson,33,Female,New York,Adidas,690.75,0
+651,Emma Adams,35,Female,Texas,Nike,530.5,0
+652,Mia Turner,25,Female,New York,Apple,620.2,0
+653,Sophia Turner,33,Female,Florida,Apple,590.3,0
+654,Emma Turner,27,Female,Florida,Samsung,650.3,1
+655,Lucas Adams,30,Female,Texas,Adidas,520.75,0
+656,Mason Martin,27,Female,Florida,Adidas,550.3,1
+657,Mia Wilson,32,Female,California,Samsung,670.3,0
+658,Ava Harris,30,Male,Florida,Adidas,600.75,0
+659,Mia Wilson,32,Female,California,Nike,650.3,1
+660,Ava Turner,28,Male,Florida,Samsung,720.75,1
+661,Sophia Turner,30,Male,New York,Adidas,600.75,0
+662,Emma Adams,32,Male,California,Apple,580.75,0
+663,Liam Adams,26,Female,Florida,Samsung,520.75,1
+664,Aria Turner,30,Male,Texas,Adidas,520.75,1
+665,Mason Turner,30,Male,New York,Adidas,550.3,0
+666,Mason Adams,27,Female,New York,Samsung,720.75,0
+667,Liam Davis,24,Male,Texas,Nike,510.5,1
+668,Noah Turner,31,Male,Texas,Samsung,720.75,1
+669,Mason Harris,28,Male,Florida,Samsung,730.5,0
+670,Liam Adams,26,Female,Texas,Apple,640.75,1
+671,Liam Martin,33,Female,Texas,Adidas,720.75,1
+672,Mia Martin,27,Female,California,Apple,520.75,1
+673,Ava Taylor,31,Female,California,Adidas,510.25,0
+674,Mia Wilson,27,Female,California,Apple,600.75,1
+675,Mason Adams,29,Male,Texas,Samsung,670.3,0
+676,Mason Turner,31,Male,California,Adidas,480.75,0
+677,Liam Turner,28,Male,California,Apple,650.3,0
+678,Lucas Harris,27,Male,New York,Nike,530.3,0
+679,Emma Turner,28,Female,Texas,Adidas,520.75,1
+680,Olivia Turner,,Female,California,Nike,280.5,0
+681,Lucas Martin,29,Male,California,Adidas,580.75,0
+682,Aria Taylor,27,Male,New York,Samsung,680.3,0
+683,Mia Martin,29,Female,California,Adidas,670.75,0
+684,Sophia Adams,33,Female,Texas,Apple,,1
+685,Ava Adams,28,Female,Florida,Adidas,,0
+686,Mason Adams,31,Male,Texas,Adidas,580.75,1
+687,Lucas Martin,34,Female,New York,Samsung,670.3,1
+688,Mason Adams,27,Female,New York,Adidas,580.75,1
+689,Liam Taylor,32,Male,New York,Apple,450.75,1
+690,Mia Taylor,27,Male,California,Apple,690.75,1
+691,Sophia Turner,32,Male,Florida,Samsung,590.3,1
+692,Aria Turner,26,Female,Texas,Samsung,600.75,0
+693,Mason Turner,27,Female,California,Samsung,600.75,0
+694,Aria Turner,30,Male,Texas,Adidas,720.75,1
+695,Aria Harris,29,Male,Florida,Apple,720.75,0
+696,Aria Turner,26,Female,Texas,Nike,580.75,1
+697,Lucas Martin,28,Male,California,Samsung,520.75,0
+698,Sophia Adams,30,Male,New York,Adidas,720.75,0
+699,Sophia Martin,33,Female,Texas,Samsung,670.3,0
+700,Aria Wilson,27,Male,Texas,Adidas,580.75,0
+701,Aria Turner,29,Male,Texas,Samsung,720.75,0
+702,Mason Adams,31,Male,California,Adidas,650.3,0
+703,Aria Adams,35,Male,Texas,Apple,710.75,0
+704,Liam Turner,28,Male,New York,Apple,650.3,1
+705,Mia Wilson,32,Female,California,Apple,600.75,1
+706,Sophia Taylor,35,Female,Florida,Nike,450.3,0
+707,Mason Adams,27,Female,New York,Adidas,520.75,0
+708,Emma Turner,32,Female,California,Adidas,600.75,0
+709,Lucas Adams,30,Female,Florida,Apple,690.3,0
+710,Lucas Adams,32,Female,Florida,Samsung,670.3,0
+711,Liam Turner,32,Male,Florida,Nike,,0
+712,Noah Adams,30,Female,New York,Samsung,720.75,1
+713,Noah Adams,33,Female,New York,Adidas,670.3,0
+714,Lucas Turner,26,Female,California,Nike,500.75,1
+715,Sophia Adams,32,Female,Florida,Nike,490.3,0
+716,Aria Turner,32,Female,Texas,Samsung,650.3,1
+717,Sophia Martin,32,Female,New York,Nike,600.75,0
+718,Liam Adams,26,Female,Florida,Apple,600.75,1
+719,Lucas Adams,26,Female,California,Samsung,550.3,0
+720,Ava Turner,30,Male,Florida,Apple,670.3,0
